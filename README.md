@@ -1,1 +1,1 @@
-this isREADME.md for git
+this isREADME.md for github
